@@ -7,6 +7,7 @@ This project is a file sharing and hosting service that allows users to upload, 
 ## Features
 - **File Upload**: Upload files of various formats.
 - **File Sharing**: Generate shareable links for uploaded files.
+
 - **File Management**: Organize and manage uploaded files.
 - **Security**: Ensure secure file storage and sharing.
 
