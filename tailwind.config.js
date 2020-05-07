@@ -73,6 +73,7 @@ module.exports = {
                     50: "var(--indigo_50)",
                     100: "var(--indigo_100)",
                     300: "var(--indigo_300)",
+
                     700: "var(--indigo_700)",
                     a100: "var(--indigo_a100)",
                     a200: "var(--indigo_a200)",
