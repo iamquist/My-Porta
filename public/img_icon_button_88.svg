@@ -1,0 +1,7 @@
+<svg id="img_icon_button_8" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <rect id="Rectangle_1" data-name="Rectangle 1" width="36" height="36" rx="18" fill="#636ae8"/>
+  <g id="Group_1" data-name="Group 1" transform="translate(-947.5 -537.5)">
+    <path id="Line_1" data-name="Line 1" d="M0,15.5A1.5,1.5,0,0,1-1.5,14V0A1.5,1.5,0,0,1,0-1.5,1.5,1.5,0,0,1,1.5,0V14A1.5,1.5,0,0,1,0,15.5Z" transform="translate(965.5 548.5)" fill="#fff"/>
+    <path id="Line_2" data-name="Line 2" d="M14,1.5H0A1.5,1.5,0,0,1-1.5,0,1.5,1.5,0,0,1,0-1.5H14A1.5,1.5,0,0,1,15.5,0,1.5,1.5,0,0,1,14,1.5Z" transform="translate(958.5 555.5)" fill="#fff"/>
+  </g>
+</svg>

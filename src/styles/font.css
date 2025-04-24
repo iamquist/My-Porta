@@ -1,0 +1,77 @@
+@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/fonts/InterMedium.ttf");
+    font-family: "Inter";
+    font-weight: 500;
+}
+@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/fonts/InterRegular.ttf");
+    font-family: "Inter";
+    font-weight: 400;
+}
+@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/fonts/ArchivoBold.ttf");
+    font-family: "Archivo";
+    font-weight: 700;
+}
+@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/fonts/InterItalic.ttf");
+    font-family: "Inter";
+    font-weight: 400;
+}
+@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/fonts/ArchivoRegular.ttf");
+    font-family: "Archivo";
+    font-weight: 400;
+}
+@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/fonts/InterBold.ttf");
+    font-family: "Inter";
+    font-weight: 700;
+}
+@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/fonts/ManropeSemiBold.ttf");
+    font-family: "Manrope";
+    font-weight: 600;
+}
+@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/fonts/RedHatDisplayBold.ttf");
+    font-family: "Red Hat Display";
+    font-weight: 700;
+}
+@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/fonts/ManropeMedium.ttf");
+    font-family: "Manrope";
+    font-weight: 500;
+}
+@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/fonts/RedHatDisplayRegular.ttf");
+    font-family: "Red Hat Display";
+    font-weight: 400;
+}
+@font-face {
+    font-display: swap;
+    font-style: normal;
+    src: url("/fonts/ManropeRegular.ttf");
+    font-family: "Manrope";
+    font-weight: 400;
+}
